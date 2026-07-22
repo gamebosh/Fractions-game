@@ -313,7 +313,7 @@ export default function Home() {
     <main>
       <header className="topbar">
         <a className="logo" href="#home" aria-label="GameBosh Fraction Quest home">
-          <img src="https://gamebosh-fraction-quest.souhailachahod5.chatgpt.site/gamebosh-logo.png" alt="GameBosh" />
+          <img src="./gamebosh-kids-logo.webp" alt="GameBosh" />
           <span>Fraction Quest<small>Learn • Play • Grow</small></span>
         </a>
         <nav aria-label="Main navigation">
@@ -343,7 +343,7 @@ export default function Home() {
           </div>
         </div>
         <div className="hero-art">
-          <img src="https://gamebosh-fraction-quest.souhailachahod5.chatgpt.site/gamebosh-banner.png" alt="GameBosh free online games with colourful gaming icons" />
+          <img src="./gamebosh-kids-banner.webp" alt="GameBosh free online games with colourful gaming icons" />
           <div className="floating-card pizza-card"><span className="mini-pie" /> <b>3/4</b><small>Three quarters!</small></div>
           <div className="floating-card streak-card">🔥 <b>5 day streak</b></div>
           <span className="orbit orbit-one">⅓</span><span className="orbit orbit-two">½</span><span className="orbit orbit-three">⅝</span>
@@ -451,7 +451,7 @@ export default function Home() {
       </section>
 
       <footer>
-        <div className="footer-brand"><img src="https://gamebosh-fraction-quest.souhailachahod5.chatgpt.site/gamebosh-logo.png" alt="GameBosh"/><p>Fraction Quest makes maths colourful, clear and fun.</p></div>
+        <div className="footer-brand"><img src="./gamebosh-kids-logo.webp" alt="GameBosh"/><p>Fraction Quest makes maths colourful, clear and fun.</p></div>
         <div><b>Learn</b><a href="#worlds">Fraction levels</a><a href="#learn">Fraction guide</a><a href="#parents">For parents</a></div>
         <div><b>GameBosh</b><a href="https://gamebosh.com/" target="_blank" rel="noreferrer">More free games</a><a href="https://gamebosh.com/" target="_blank" rel="noreferrer">GameBosh.com</a></div>
         <p className="copyright">© 2026 GameBosh. Learn, play and grow.</p>
